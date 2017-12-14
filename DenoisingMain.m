@@ -26,7 +26,7 @@
 %            functional connectomics using arterial spin labeling fMRI: the
 %            role of denoising. Brain Connectivity (in press).
 %
-% Copyright 2015 Brain Research Institute, Melbourne, Australia
+% Copyright 2015 Florey Institute of Neuroscience and Mental Health, Melbourne, Australia
 % Written by Xiaoyun Liang (Email: x.liang@brain.org.au)
 % This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied  
 % warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
